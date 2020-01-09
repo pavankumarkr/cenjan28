@@ -1,5 +1,5 @@
 pipeline{
- agnet any
+ agent any
  environment{
    PATH="/opt/downloads/apache-maven-3.6.3/bin:$PATH"
   }
